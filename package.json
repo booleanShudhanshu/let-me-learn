@@ -2,7 +2,10 @@
   "name": "let-me-learn",
   "version": "1.0.0",
   "description": "This is only for learning purpose.",
-  "author": "booleanShudhanshu",
+  "author": {
+    "name":"Shudhanshu Raj"
+  },
+  "homepage": "https://github.com/booleanShudhanshu/let-me-learn.git",
   "license": "MIT",
   "repository": "booleanShudhanshu/let-me-learn",
   "main": "dist/index.js",
@@ -47,6 +50,10 @@
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1"
   },
+  "keywords": [
+    "react",
+    "let-me-learn"
+  ],
   "files": [
     "dist"
   ]
